@@ -1,3 +1,5 @@
+I do not own this project, nor code. Pushed to github for Unity packaging from git support.
+https://arongranberg.com/astar/download
 
 ========= The A* Pathfinding Project =========
 
